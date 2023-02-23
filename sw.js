@@ -3,8 +3,8 @@ const dynamicCacheName = 'site-dynamic-v1';
 const assets = [
   './',
   './index.html',
-  './main.js',
-  './styles.css',
+  './js/main.js',
+  './styles/styles.css',
   './img/icon-512.png',
   'https://fonts.googleapis.com/css?family=Poiret+One&display=swap',
   'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css'
