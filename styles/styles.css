@@ -82,6 +82,10 @@
     color: rgba(125, 125, 125,1.0);
     -webkit-tap-highlight-color: transparent;
   }
+
+  button:focus {
+    outline: none!important;
+  }
   
   button:hover {
     background: rgb(235, 77, 75);
@@ -160,6 +164,10 @@
     transition: 200ms ease-in-out;
     font-size: 10px;
     -webkit-tap-highlight-color: transparent;
+  }
+
+  .btn:focus {
+    outline: none!important;
   }
   
   .btn:hover {
