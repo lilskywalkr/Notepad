@@ -129,6 +129,7 @@ It’s been great looking back at this project and seeing how much the web devel
 - Add categories or tags for organizing notes.
 - Add a dark mode toggle for better readability.
 - Support for attaching images or files to notes.
+- Add note editing functionality
 
 ---
 
@@ -139,4 +140,6 @@ You can try out the app live https://lilskywalkr.github.io/Notepad/
 ---
 
 ## Overview
-
+![web_view](https://github.com/user-attachments/assets/899fa10a-62a1-4e24-a311-9d89b8fa2769)
+![desktop_view](https://github.com/user-attachments/assets/2d3b1e83-8d42-4725-8e02-4e3a94a62c54)
+![mobile_view](https://github.com/user-attachments/assets/78f52d81-0c2e-4895-ac5f-db49d2e9ac23)
